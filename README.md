@@ -13,5 +13,7 @@ Make sure to replace /home/forest-terminal/ with your user's home dirrectory<br>
 Simply replace all of the `.zshrc` file mentions to be `.bashrc` instead.<br>
 
 ## Wallpaper.sh
-A basic terminal wallpaper switcher with search and preview ability. (Optional ability to work with a custom themed setup.)<br>
+A basic terminal wallpaper switcher with search and preview ability.<br>
 **Preview.sh must be in the same dirrectory for it to work.**<br>
+**Compatibility**
+Replace the call to `swww` with the one for your wallpaper daemon.
