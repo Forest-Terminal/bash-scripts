@@ -1,7 +1,7 @@
 # bash-scripts
 Some helpful bash scripts for faster workflow
 
-## Cmnvim.sh
+## Cnvim.sh
 This a script that allows to combine the cd and nvim . or nvim file.txt commands.
 **It depends on zoxide**
 
