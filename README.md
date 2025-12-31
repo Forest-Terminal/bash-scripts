@@ -1,14 +1,13 @@
 # bash-scripts
-Some helpful bash scripts for faster workflow
+Some helpful bash scripts for faster workflow<br>
+***Note: Make sure to replace `/home/forest-terminal/` with your home dirrectory***
 
 ## Cnvim.sh
 This a script that allows to combine the cd and nvim . or nvim file.txt commands. <br>
-**It depends on zoxide**<br>
+**It depends on `zoxide`**<br>
 
 ## Todo.sh
 This allows todos to put inside of the .zshrc file so they are seen every time a terminal opens up.<br>
-### Installation
-Make sure to replace /home/forest-terminal/ with your user's home dirrectory<br>
 ### Bash Compatbility
 Simply replace all of the `.zshrc` file mentions to be `.bashrc` instead.<br>
 
